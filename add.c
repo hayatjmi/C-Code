@@ -2,9 +2,12 @@
 #include<conio.h>
 int main()
 {
-    int a , b ,c ;
-    printf("Enter two numbers");
-    scanf("%d%d",&a,&b);
-    c=a+b;
-    printf("%d",c);
+    int istnum , secnum, sum;
+    printf("Enter first Number : ");
+    scanf("%d",&istnum);
+    printf("Enter second number  : ");
+    scanf("%d",&secnum);
+    sum = istnum+secnum;
+    printf("sum is : %d",sum);
+    return 0;
 }
