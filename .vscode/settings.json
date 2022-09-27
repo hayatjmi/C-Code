@@ -29,5 +29,7 @@
   ],
   "files.associations": {
     "POINTERTOPOINTER.C": "cpp"
-  }
+  },
+  "editor.accessibilityPageSize": 5,
+  "editor.fontSize": 15
 }
