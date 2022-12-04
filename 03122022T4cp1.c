@@ -1,6 +1,7 @@
 // 1.	Program that simply takes elements of the array from the user and finds the sum of these elements.
 // Name Hayat khan Mca ist year
 #include<stdio.h>
+#include<conio.h>
 int main()
 {
 int arr[10];
