@@ -1,3 +1,6 @@
+// 5.	Program to sort the elements of the array in ascending order using Bubble Sort technique.
+// Name Hayat Khan
+// Mca Ist Year
 #include<stdio.h>
 int main()
 {
